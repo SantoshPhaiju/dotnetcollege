@@ -1,0 +1,14 @@
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/bin/Debug/net10.0/GenericIntro
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/bin/Debug/net10.0/GenericIntro.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/bin/Debug/net10.0/GenericIntro.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/bin/Debug/net10.0/GenericIntro.dll
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/bin/Debug/net10.0/GenericIntro.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.dll
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/refint/GenericIntro.dll
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/GenericIntro.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/GenericIntro/obj/Debug/net10.0/ref/GenericIntro.dll
