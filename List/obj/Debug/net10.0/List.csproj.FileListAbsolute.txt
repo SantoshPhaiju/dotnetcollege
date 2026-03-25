@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/List/bin/Debug/net10.0/List
+/Users/santoshphaiju/Coding/dotnetcollege/List/bin/Debug/net10.0/List.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/List/bin/Debug/net10.0/List.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/List/bin/Debug/net10.0/List.dll
+/Users/santoshphaiju/Coding/dotnetcollege/List/bin/Debug/net10.0/List.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.dll
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/refint/List.dll
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/List.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/List/obj/Debug/net10.0/ref/List.dll
