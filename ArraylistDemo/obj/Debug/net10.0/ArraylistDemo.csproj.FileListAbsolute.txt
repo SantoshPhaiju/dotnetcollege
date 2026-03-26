@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/bin/Debug/net10.0/ArraylistDemo
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/bin/Debug/net10.0/ArraylistDemo.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/bin/Debug/net10.0/ArraylistDemo.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/bin/Debug/net10.0/ArraylistDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/bin/Debug/net10.0/ArraylistDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/refint/ArraylistDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ArraylistDemo.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/ArraylistDemo/obj/Debug/net10.0/ref/ArraylistDemo.dll

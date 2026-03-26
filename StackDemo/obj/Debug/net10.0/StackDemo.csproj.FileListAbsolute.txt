@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/bin/Debug/net10.0/StackDemo
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/bin/Debug/net10.0/StackDemo.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/bin/Debug/net10.0/StackDemo.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/bin/Debug/net10.0/StackDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/bin/Debug/net10.0/StackDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/refint/StackDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/StackDemo.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/StackDemo/obj/Debug/net10.0/ref/StackDemo.dll

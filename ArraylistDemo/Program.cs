@@ -1,21 +1,30 @@
 ﻿
 
-namespace List
+using System.Collections;
+
+namespace ArraylistDemo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            List<string> students = new List<string>();
+            ArrayList students = new ArrayList();
             System.Console.WriteLine($"Capacity: {students.Capacity}");
             students.Add("Alisha");
             students.Add("Saugat");
             students.Add("Santosh");
-            students.Add("Santosh");
-            students.Add("Santosh");
-            students.Add("Santosh");
+            students.Add("Alice");
+            students.Add("Bob");
+            students.Add("Proctor");
+            // students.Add(123); // Adding an integer to demonstrate ArrayList's ability to hold different types
             System.Console.WriteLine($"Capacity: {students.Capacity}");
-            foreach (string student in students)
+            foreach (object student in students)
+            {
+                System.Console.WriteLine(student);
+            }
+            students.Sort();
+            System.Console.WriteLine("After sorting:");
+            foreach (object student in students)
             {
                 System.Console.WriteLine(student);
             }
@@ -23,7 +32,7 @@ namespace List
             System.Console.WriteLine("Is Alisha in the list? " + students.Contains("Alisha"));
             students.Remove("Saugat");
             System.Console.WriteLine("After removing Saugat:");
-            foreach (string student in students)
+            foreach (object student in students)
             {
                 System.Console.WriteLine(student);
             }

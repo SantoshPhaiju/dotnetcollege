@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/bin/Debug/net10.0/QueueDemo
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/bin/Debug/net10.0/QueueDemo.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/bin/Debug/net10.0/QueueDemo.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/bin/Debug/net10.0/QueueDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/bin/Debug/net10.0/QueueDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/refint/QueueDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/QueueDemo.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/QueueDemo/obj/Debug/net10.0/ref/QueueDemo.dll
