@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/bin/Debug/net10.0/DictionaryDemo
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/bin/Debug/net10.0/DictionaryDemo.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/bin/Debug/net10.0/DictionaryDemo.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/bin/Debug/net10.0/DictionaryDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/bin/Debug/net10.0/DictionaryDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/refint/DictionaryDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/DictionaryDemo.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/DictionaryDemo/obj/Debug/net10.0/ref/DictionaryDemo.dll
