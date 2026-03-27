@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/bin/Debug/net10.0/LinqDemo
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/bin/Debug/net10.0/LinqDemo.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/bin/Debug/net10.0/LinqDemo.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/bin/Debug/net10.0/LinqDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/bin/Debug/net10.0/LinqDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/refint/LinqDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/LinqDemo.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/LinqDemo/obj/Debug/net10.0/ref/LinqDemo.dll
