@@ -1,0 +1,15 @@
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/bin/Debug/net10.0/FileHandingDemo
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/bin/Debug/net10.0/FileHandingDemo.deps.json
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/bin/Debug/net10.0/FileHandingDemo.runtimeconfig.json
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/bin/Debug/net10.0/FileHandingDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/bin/Debug/net10.0/FileHandingDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.AssemblyInfoInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.AssemblyInfo.cs
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.csproj.CoreCompileInputs.cache
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.sourcelink.json
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/refint/FileHandingDemo.dll
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.pdb
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/FileHandingDemo.genruntimeconfig.cache
+/Users/santoshphaiju/Coding/dotnetcollege/FileHandingDemo/obj/Debug/net10.0/ref/FileHandingDemo.dll
