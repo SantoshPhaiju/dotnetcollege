@@ -1,0 +1,23 @@
+﻿@page
+@model NewApp.Pages.AboutModel
+@{
+    var title = "About Us";
+   
+}
+<h2>About page</h2>
+<p> 
+    This is the about page of the application. The name is @Model.Name.
+
+
+</p>
+
+<h1>
+    @title
+</h1>
+
+@{
+    for (int i = 0; i < 5; i++)
+    {
+        <p>Number: @i</p>
+    }
+}
