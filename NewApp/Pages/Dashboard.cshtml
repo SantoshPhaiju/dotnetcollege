@@ -1,0 +1,32 @@
+﻿@page
+@model NewApp.Pages.DashboardModel
+@{
+    Layout = "~/Pages/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Hello dashboard</h1>
+
+<form method="post">
+    <div>
+        <label for="name">Name:</label><br />
+        <input type="text" id="name" name="Name" value="@Model.Name" required />
+    </div>
+
+    <br />
+
+    <div>
+        <label for="email">Email:</label><br />
+        <input type="email" id="email" name="Email" value="@Model.Email" required />
+    </div>
+
+    <br />
+
+    <div>
+        <label for="address">Address:</label><br />
+        <textarea id="address" name="Address" rows="4" required>@Model.Address</textarea>
+    </div>
+
+    <br />
+
+    <button type="submit">Submit</button>
+</form>
